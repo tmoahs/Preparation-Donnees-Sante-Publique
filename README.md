@@ -1,12 +1,10 @@
-# Projet 3 : Préparez des données pour un organisme de santé publique
+# Préparez des données pour un organisme de santé publique
 
 ### Objectif & Résultat Principal
 
 Nettoyage et préparation des données Open Food Facts pour évaluer la faisabilité d’un système d’auto-complétion des informations nutritionnelles. Le projet a inclus le traitement avancé des outliers et l'imputation de valeurs manquantes (KNN Imputer). Des analyses statistiques (ACP, ANOVA) ont **validé que des catégories clés (ex: Nutri-Score) expliquent significativement la composition des produits**, confirmant la viabilité du système.
 
 ---
-
-Ce projet, le troisième du parcours Data Scientist d'OpenClassrooms, est axé sur une compétence fondamentale du métier : le **nettoyage** et la **préparation de données**. La mission consiste à travailler sur un jeu de données fourni par un organisme de santé publique pour le rendre propre et exploitable en vue d'analyses futures.
 
 ### Contexte
 
